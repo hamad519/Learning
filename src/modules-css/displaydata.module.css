@@ -1,0 +1,24 @@
+.input{
+    width: 300px;
+    padding: 15px;
+    border-radius:10px;
+    font-size: 20px;
+}
+.h2{
+    color: brown;
+}
+.button{
+    margin-top:20px ;
+    background-color: brown;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: block;
+  }
+  .p{
+    color: red;
+  }
+
+  
